@@ -2,7 +2,9 @@
 ## Make your first contribution!
 
 For [Github](https://github.com/nammahari/cit-hackers.git)
-
+# No internet access available
+## Please help me
+### please help me - no help came
 ## For Contact
 
 - Telegram : [t.me/nammahari](https://t.me/nammahari)
